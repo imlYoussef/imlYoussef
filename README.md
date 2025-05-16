@@ -25,6 +25,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Linux-★★★☆☆-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imlYoussef&theme=dracula&row=1&column=6" alt="Trophy" />
+</p>
+
+
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/imlYoussef/count.svg" alt="Visitor Count" />
 </p>
