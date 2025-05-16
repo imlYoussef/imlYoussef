@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=1337%20Coder&animation=blinking&fontSize=60&fontAlignY=55&fontColor=ffffff&height=140" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=1337%20Coder&animation=blinking&fontSize=60&fontAlignY=55&fontColor=ff0000&height=140" width="100%">
 </div>
 
 <p align="center">
