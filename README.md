@@ -18,12 +18,6 @@
 - 🏫 I'm studying in UM6P 1337 coding school
 - 📫 How to reach me: [mazozyoussef34@gmail.com]
 
-<h2 align="center">My Skills</h2>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C-★★★★☆-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-★★★☆☆-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imlYoussef&theme=dracula&row=1&column=6" alt="Trophy" />
@@ -32,4 +26,11 @@
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/imlYoussef/count.svg" alt="Visitor Count" />
+</p>
+
+<h2 align="center">My Skills</h2>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/C-★★★★☆-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-★★★☆☆-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </p>
