@@ -1,14 +1,23 @@
-<!-- Animated Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=YOUSSEF" alt="Typing SVG" />
+  <a href="https://github.com/yourusername">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=YOUSSEF&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  </a>
 </p>
 
-<!-- GitHub Stats -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imlYoussef&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- About Me Section -->
+
+<h2 align="center">My Skills</h2>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/C-★★★★☆-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-★★★☆☆-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+</p>
+
+
 ## About Me
 - 👨‍💻 I'm a developer passionate about coding
 - 💬 Ask me about C programming and algorithms
