@@ -1,9 +1,24 @@
-<p align="center">
-  <a href="https://github.com/imlYoussef">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=YOUSSEF&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
-  </a>
-</p>
 
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗███████╗
+╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝██╔════╝
+ ╚████╔╝ ██║   ██║██║   ██║███████╗███████╗█████╗  █████╗  
+  ╚██╔╝  ██║   ██║██║   ██║╚════██║╚════██║██╔══╝  ██╔══╝  
+   ██║   ╚██████╔╝╚██████╔╝███████║███████║███████╗██║     
+   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝     
+
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+YOUSSEF;Welcome+to+my+profile&font=Roboto&size=40&center=true&vCenter=true&width=600&height=100&color=ff0000&background=0d1117&duration=4000&pause=1000">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=1337%20Coder&animation=blinking&fontSize=60&fontAlignY=55&fontColor=ffffff&height=140" width="100%">
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlYoussef&theme=radical&hide_border=true" alt="GitHub Streak" />
