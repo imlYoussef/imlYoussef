@@ -10,24 +10,15 @@
 </p>
 
 
-<h2 align="center">My Skills</h2>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C-★★★★☆-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-★★★☆☆-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-</p>
-
-
 ## About Me
 - 👨‍💻 I'm a developer passionate about coding
 - 💬 Ask me about C programming and algorithms
 - 🏫 I'm studying in UM6P 1337 coding school
 - 📫 How to reach me: [mazozyoussef34@gmail.com]
 
-<!-- Skills Section -->
-## Skills
+<h2 align="center">My Skills</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="#"><img src="https://img.shields.io/badge/C-★★★★☆-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-★★★☆☆-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </p>
