@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/imlYoussef">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=YOUSSEF&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
   </a>
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlYoussef&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
